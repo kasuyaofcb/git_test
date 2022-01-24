@@ -1,9 +1,7 @@
 
 A
-HOGE
-PIYO
 B
 C
 D
 E
-
+F
