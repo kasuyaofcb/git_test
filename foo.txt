@@ -1,5 +1,9 @@
 
 A
+HOGE
+PIYO
 B
 C
->>>>>>> new-branch-2
+D
+E
+
