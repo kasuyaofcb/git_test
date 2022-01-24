@@ -1,1 +1,5 @@
-testtest
+
+A
+B
+C
+>>>>>>> new-branch-2
